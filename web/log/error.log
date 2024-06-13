@@ -1,0 +1,14 @@
+2024-06-12 00:17:17 | Error   |       | Uncaught MySQLException: Could not connect to the DB server: mysql_errno = , mysql_error =  in C:\xampp\htdocs\itop\web\application\startup.inc.php:107
+ | IssueLog |||
+array (
+  'type' => 1,
+  'file' => 'C:\\xampp\\htdocs\\itop\\web\\application\\startup.inc.php',
+  'line' => 107,
+)
+2024-06-12 00:17:23 | Error   |       | Uncaught MySQLException: Could not connect to the DB server: mysql_errno = , mysql_error =  in C:\xampp\htdocs\itop\web\application\startup.inc.php:107
+ | IssueLog |||
+array (
+  'type' => 1,
+  'file' => 'C:\\xampp\\htdocs\\itop\\web\\application\\startup.inc.php',
+  'line' => 107,
+)
